@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<students>
+
+<student>
+<name>Rahul</name>
+<marks>90</marks>
+</student>
+
+<student>
+<name>Anita</name>
+<marks>85</marks>
+</student>
+
+<student>
+<name>Raj</name>
+<marks>78</marks>
+</student>
+
+</students>
